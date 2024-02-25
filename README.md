@@ -4,13 +4,13 @@ The Tic Tac Toe game contains nine fields with a + sign. Clicking on it will sho
 
 If you click on a field and try to click it again, a message will warn you that the spot has already been clicked.
 
-To win it is necessary to have 3X or 3O horizontally, vertically or diagonally.
+To o win it is necessary to have 3X or 3O horizontally, vertically, or diagonally.
 
-When someone wins, a message will alert with the winner's name.
+When someone wins, a message will be alerted with the winner's name.
 
 Also on this page are embeded SVG icons to display social icons of LinkedIn, GitHub, and CodePen, which you can see when you click the Follow Me button located at the bottom of the page. They will also change the color on hover and active state.
 
-This project is done with semantic HTML5 markup, CSS styling, jQuery selectors, jQuery methods - addClass(), removeClass(), hasClass(), and JavaScript logic and conditionals with if, else if and else statements.
+This project is done with semantic HTML5 markup, CSS styling, jQuery selectors, jQuery methods - addClass(), removeClass(), hasClass(), and JavaScript logic and conditionals with if, else if, and else statements.
 
 [PREVIEW](https://full-stack-web-developer-and-designer.github.io/tictactoe)
 ##
