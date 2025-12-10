@@ -57,7 +57,7 @@ tictactoe/
 │
 ├── index.html
 |
-├── mockup-tictactoe.web   # screenshot
+├── mockup-tictactoe.webp   # screenshot
 |
 ├── script.js
 |
